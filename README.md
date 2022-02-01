@@ -3,7 +3,7 @@ A web application built using Python framework - Flask and News API. Application
 
 ## Author
 [Fabian Matata](https://github.com/FabianMatata/)
-1
+1 2
 
 ## Requirements
 The user can perform the following functions:
